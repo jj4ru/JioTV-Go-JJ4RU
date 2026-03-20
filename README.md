@@ -20,7 +20,7 @@ This launcher automates server initialization, performs network checks, and open
 ---
 
 ## 🛠️ How to Use
-1. **Download:** Get the latest `JioTV_JJ4RU_Player.exe` from the releases.
+1. **Download:** Get the latest [JioTV.JJ4RU.Player.exe](https://github.com/jj4ru/JioTV-Go-JJ4RU/releases/download/v1.0.0/JioTV.JJ4RU.Player.exe) directly.
 2. **Launch:** Double-click the file. If Windows SmartScreen appears, click **'More Info'** -> **'Run Anyway'**.
 3. **Wait for Splash:** The JJ4RU splash screen will initialize the server and check for updates.
 4. **Stream:** Your browser will open automatically. To watch on other devices, use the IP address displayed on the splash screen (e.g., `http://192.168.1.5:5001`).
